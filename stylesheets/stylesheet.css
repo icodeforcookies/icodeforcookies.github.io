@@ -92,23 +92,23 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("http://lorempixel.com/640/480/abstract/6/");
+  background-image: url("http://2.bp.blogspot.com/-174AjSOEhCk/UOfASVle5UI/AAAAAAAAHO4/VFKez3s6THg/s1600/Cherry+Blossom+wallpaper+Peach+flowers+%25282%2529.jpg");
    background-attachment: fixed;  
 }
 
 #slide1:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/4/");
+  background-image: url("http://99pcwallpapers.com/wp-content/uploads/beautiful-beach-widescreen-high-resolution-wallpaper-for-desktop-background-download-beach-images-free.jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
 #slide2 {
-  background-image: url("http://lorempixel.com/640/480/abstract/3/");
+  background-image: url("https://lh6.ggpht.com/BxEVNYWGcuU4XaExTuqInnf8Hw2Ai_q6A-WkH1bRoF8SMVYeeQrqt68znQAHEEYvcg=h900");
   background-attachment: fixed;
 }
 
 #slide3:before {
-  background-image: url("http://lorempixel.com/640/480/abstract/5/");
+  background-image: url("http://naturewallpapers.biz/wp-content/uploads/2012/05/high-definition-winter-wallpaper.jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
