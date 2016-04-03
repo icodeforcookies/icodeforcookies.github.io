@@ -13,7 +13,7 @@ body {
   height: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
-  font-family: Nunito;
+  font-family: Helvetica;
 }
 
 h1 {
@@ -92,27 +92,27 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("http://2.bp.blogspot.com/-174AjSOEhCk/UOfASVle5UI/AAAAAAAAHO4/VFKez3s6THg/s1600/Cherry+Blossom+wallpaper+Peach+flowers+%25282%2529.jpg");
+  background-image: url("http://www.wallpaperity.com/wp-content/uploads/2016/02/Wallpaper-For-Wood-Coolest.jpg");
    background-attachment: fixed;  
 }
 
 #slide1:before {
-  background-image: url("http://99pcwallpapers.com/wp-content/uploads/beautiful-beach-widescreen-high-resolution-wallpaper-for-desktop-background-download-beach-images-free.jpg");
+  background-image: url("http://i.imgur.com/vLtCIhW.jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
 #slide2 {
-  background-image: url("https://lh6.ggpht.com/BxEVNYWGcuU4XaExTuqInnf8Hw2Ai_q6A-WkH1bRoF8SMVYeeQrqt68znQAHEEYvcg=h900");
+  background-image: url("http://i.imgur.com/KTsMBU0.jpg");
   background-attachment: fixed;
 }
 
 #slide3:before {
-  background-image: url("http://naturewallpapers.biz/wp-content/uploads/2012/05/high-definition-winter-wallpaper.jpg");
+  background-image: url("https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xtl1/v/t1.0-9/12801382_10153931458898828_8493305932292088167_n.jpg?oh=0f62e89ad981a45d4b9ca96e03bcd141&oe=5789F204");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
 #slide4 {
-  background: #222;
+  background-image: url("http://www.wallpaperity.com/wp-content/uploads/2016/02/Wallpaper-For-Wood-Coolest.jpg");
 }
